@@ -1,6 +1,8 @@
 # cub3d
 pseudo 3D game
 
+open readme.md in editing mode
+
 To run mandatory part: 'make && ./cub3D map.cub'
 
 To run bonus part: 'make bonus && ./cub3D bonus/map.cub'
